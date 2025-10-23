@@ -297,7 +297,7 @@ strong {
 }
 
 .hero-bg {
-  background-image: url('../images/laptop.jpg');
+  background-image: url('../images/laptop.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -595,5 +595,6 @@ strong {
     margin: 10px;
   }
 }
+
 
 
